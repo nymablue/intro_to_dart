@@ -1,8 +1,12 @@
 class Bicycle{
   //Attributes
   int cadence;
-  int speed;
+  int _speed = 0;
+  int get speed => _speed;
   int gear;
   //Constructor
-  Bicycle(this.cadence, this.speed, this.gear);
+  Bicycle(this.cadence, this.gear);
+  //Method toString
+  @override
+  String toString() =>'Bicycle: ${speed+1} mph';
 }
