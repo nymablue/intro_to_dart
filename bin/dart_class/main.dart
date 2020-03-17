@@ -1,4 +1,4 @@
-import 'Bicycle.dart';
+import 'bicycle.dart';
 
 void main(){
   //Instantiating an object
