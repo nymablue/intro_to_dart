@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbce0da2-9792-419a-9069-03075abcc36c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/optional_parameters/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/optional_parameters/rectangle.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Bicycle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dart_class/bicycle.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dart_class/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +40,22 @@
       <recent name="C:\Users\Brayan Mamani\Documents\IntelliJ IDEA Proyects\intro_to_dart\bin\dart_class" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Dart Command Line App.main.dart (1)">
+    <configuration name="main.dart (1)" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/optional_parameters/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/dart_class/main.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,22 +71,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584478229400">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1584478870127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584478229400" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584478229400">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584478870127" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584479164756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584478229400" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584478229400">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584479164756" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584479164755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584478229400" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584478229400">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584479164755" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584479164755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584478229400" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584479164755" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584479164756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584479164756" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584212898615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
