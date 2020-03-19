@@ -8,12 +8,16 @@ Shape shapeFactory(String type){
   if(type == 'square') return Square(2);
   throw 'can\'t create $type';
 }
-
+//Constructor
 void main(){
   //Creating objects
-  final circle = shapeFactory('circle');
-  final square = shapeFactory('square');
+  final circleOne = shapeFactory('circle');
+  final squareOne = shapeFactory('square');
+  final circleTwo = Shape('circle');
+  final squareTwo = Shape('square');
   //Showing objects
-  print(circle.area);
-  print(square.area);
+  print(circleOne.area);
+  print(squareOne.area);
+  print(circleTwo.area);
+  print(squareTwo.area);
 }
