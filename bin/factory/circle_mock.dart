@@ -1,7 +1,7 @@
 import 'circle.dart';
 
 class CircleMock implements Circle {
-  //Methods
+  //Methods override
   @override
   num area;
   @override
