@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbce0da2-9792-419a-9069-03075abcc36c" name="Default Changelist" comment="" />
+    <list default="true" id="fbce0da2-9792-419a-9069-03075abcc36c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/dart_class/bicycle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/class/bicycle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dart_class/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/class/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
       <method v="2" />
     </configuration>
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/dart_class/main.dart" />
+      <option name="filePath" value="$PROJECT_DIR$/bin/class/main.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
